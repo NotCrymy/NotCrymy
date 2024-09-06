@@ -1,5 +1,5 @@
 Hi, I’m @NotCrymy
-I’m interested in computer science, IA and all sort of coding in general as long as it lead to something interesting, fun or useful, currently learning computer science and digital simulation.
+I’m interested in computer science, IA and all sort of code in general as long as it leads to something interesting, funny or useful, currently learning computer science and digital simulation in France.
 You can reach me by discord @ Crymy
 
 <!---
